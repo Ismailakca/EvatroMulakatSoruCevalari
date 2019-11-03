@@ -1,6 +1,5 @@
 //Verilen Sayi 10000
 
-package org.csystem.app;
 class App{
     public static void main(String[] args) {
         NumberUtil.run();
